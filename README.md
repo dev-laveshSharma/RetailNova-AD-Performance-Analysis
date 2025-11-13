@@ -76,8 +76,6 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 
 ## Insights Deep Dive
 
-> *Approach – Each category includes overall and platform-filtered (Facebook / Instagram) visuals to detect both universal and platform-specific trends.*
-
 ### Category 1 – Audience Demographics
 **Overall Findings**
 - Females ≈ 43 % of engagements vs 22 % males.  
