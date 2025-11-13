@@ -86,21 +86,12 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 - Similar demographic structure across both platforms.  
 - Instagram slightly skews younger (< 25 yrs).  
 
-![Gender – Overall](images/category1_gender_overall.png)
-![Gender – Facebook](images/category1_gender_facebook.png)
-![Gender – Instagram](images/category1_gender_instagram.png)
-![Age – Overall](images/category1_age_overall.png)
-
 ---
 
 ### 🌍 Category 2 – Geographic Insights
 - Top markets: **India & US** (high volume), **Germany & UK** (high value).  
 - **Action:** Run high-reach campaigns in India / Brazil; premium conversions in Europe.  
 - Platform trend: both show consistent geography ranking; Instagram engagement slightly denser in urban markets.  
-
-![Geo Map Overall](images/category2_map_overall.png)
-![Geo Facebook](images/category2_map_facebook.png)
-![Geo Instagram](images/category2_map_instagram.png)
 
 ---
 
@@ -109,10 +100,6 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 - Hourly peaks 3 PM – 8 PM → ideal ad delivery window.  
 - Calendar heatmap shows spikes around 19–21 & 25–27 June → promotion impact.  
 - Platform comparison: both follow similar patterns; Facebook engages earlier afternoon, Instagram later evening.  
-
-![Weekly Trend Overall](images/category3_weekly_overall.png)
-![Hourly Trend Overall](images/category3_hourly_overall.png)
-![Calendar Heatmap](images/category3_calendar_overall.png)
 
 ---
 
@@ -126,16 +113,9 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 
 - **Platform nuance:** Instagram Stories & Videos excel; Facebook performs steady across formats.  
 - **Action:** Shift ≈ 30 % budget to video & story formats.  
-
-![Ad Type Overall](images/category4_adtype_table_overall.png)
-![Ad Type Facebook](images/category4_adtype_facebook.png)
-![Ad Type Instagram](images/category4_adtype_instagram.png)
-
 ---
 
 ### 🔁 Platform Comparison Summary
-![Platform KPI Compare](images/platform_comparison_metrics.png)
-
 - Facebook = broader reach, stable CTR.  
 - Instagram = higher story engagement, comparable conversion.  
 - **Recommendation:** Run cross-platform complementary strategy — awareness via Facebook, conversion via Instagram.
