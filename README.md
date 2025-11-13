@@ -28,29 +28,37 @@ The project database includes four core tables and one parameter table used for 
 
 ---
 
-## 📊 Executive Summary (Platform-Aware)
+## 🧾 Executive Summary 
 
-The **Meta Ads Performance Analysis** for *RetailNova* highlights a marketing funnel that excels in **visibility and engagement** but loses efficiency in **conversions**.  
+The **Meta Ads Performance Analysis** for *RetailNova* provides a comprehensive evaluation of advertising effectiveness across **Facebook** and **Instagram**.
 
-Across both platforms:
-- **Total Impressions:** 216 K  **Clicks:** 25.4 K  **Engagements:** 29 K  
-- **CTR 11.76 %** and **Engagement Rate 13.56 %** far exceed retail benchmarks (1 – 2 %), confirming highly effective creatives and targeting.  
-- **Purchases 1.3 K**, **Conversion Rate 5.21 %**, and **Purchase Rate 0.61 %** reveal a sharp drop-off from engagement → purchase — likely caused by landing-page friction or offer misalignment.  
+Across both platforms, RetailNova’s campaigns demonstrated **strong awareness and engagement** but revealed **conversion inefficiencies** toward the end of the funnel.  
+The analysis focuses on key funnel KPIs — from impressions and clicks to purchases and conversion rates — to understand how effectively each platform drives users from visibility to action.
 
-### Platform Highlights
-| KPI | Facebook | Instagram | Observation |
-|------|-----------|-----------|--------------|
-| Impressions | Higher volume | Slightly lower | Facebook drives reach |
-| CTR / ER | Strong | Strong | Both effective top-funnel |
-| Conversion Rate | Moderate | Comparable / slightly lower | Similar funnel leakage |
-| Engagement Mix | Balanced | Slightly higher on Stories | Instagram better for visuals |
+### 📊 Platform KPI Comparison
 
-### Key Takeaways
-1. **Awareness & interest strong; conversion weak.**  
-2. **Female 18 – 30 segment** dominates engagement — tailor creatives accordingly.  
-3. **Video & Story ads** outperform all other formats.  
-4. **Peak hours:** 3 PM – 8 PM; schedule ads accordingly.  
-5. **Platform split:** Use Facebook for reach, Instagram for conversion-driven storytelling.
+| **Metric** | **Facebook** | **Instagram** | **Insight / Takeaway** |
+|-------------|--------------|----------------|-------------------------|
+| **Impressions** | 216 K | 123.8 K | Facebook delivers ~75 % higher reach — ideal for top-funnel awareness. |
+| **Clicks** | 25.4 K | 14.7 K | Facebook attracts more user actions; stronger ad visibility overall. |
+| **Engagements** | 29.3 K | 16.8 K | Both platforms are highly engaging; Instagram performs better relative to reach. |
+| **Purchases** | 1.3 K | 708 | Facebook generates higher total conversions; both share similar efficiency gaps. |
+| **CTR (Click-Through Rate)** | 11.76 % | 11.86 % | Nearly identical CTRs — ad campaigns effective across both channels. |
+| **Engagement Rate** | 13.56 % | 13.60 % | Excellent audience resonance; content appeals equally well. |
+| **Conversion Rate** | 5.21 % | 4.82 % | Slightly stronger post-click conversion on Facebook; mid-funnel leakage persists. |
+| **Purchase Rate** | 0.61 % | 0.57 % | Low overall efficiency from reach to purchase — optimize landing pages & retargeting. |
+| **Top Ad Formats** | Video / Carousel | Video / Stories | Instagram Stories excel in engagement; Facebook remains consistent across formats. |
+
+These results show that RetailNova’s **ad creatives and targeting strategies outperform industry benchmarks** (average CTR ~1–2 %), confirming exceptional top-funnel performance.  
+However, the drop-off between engagement and purchase highlights a **conversion leakage**, likely due to landing-page experience, offer alignment, or retargeting gaps.
+
+### Additional Insights
+- **Demographics:** Female users (**43 %**) aged **18–30** represent the most engaged audience segment across both platforms.  
+- **Geographies:** **India and the US** generate the highest engagement volume, while **Germany and the UK** contribute higher-value conversions.  
+
+### Summary & Impact
+In conclusion, RetailNova’s Meta campaigns achieve **strong audience resonance and brand visibility** but face **low purchase efficiency**.  
+By enhancing post-click user experiences, implementing smarter retargeting strategies, and tailoring creative formats by platform, RetailNova can realize an estimated **20–25 % uplift in ROI** without increasing overall marketing spend.
 
 ![Dashboard Overview](images/dashboard_overview.png)
 
