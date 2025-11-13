@@ -134,29 +134,8 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 | Platform differences | Maintain distinct Facebook and Instagram playbooks. |
 
 ---
-
-## 🧰 Tech Stack & Files
-**Tools:** SQL (for data prep & KPIs), Power BI (for model + visuals), Excel (for validation).  
-
-- [`/SQL/SQL_Cleaning_Queries.sql`](SQL/SQL_Cleaning_Queries.sql)  
-- [`/SQL/SQL_Business_Queries.sql`](SQL/SQL_Business_Queries.sql)  
-- [`/Dashboard/Dashboard.pbix`](Dashboard/Dashboard.pbix)  
-- [**Interactive Power BI Dashboard →**](https://app.powerbi.com/...) *(add your link)*  
-
----
-
-## 🧾 Supporting Documents
-| File | Description |
-|------|--------------|
-| `Business Requirements Document.pdf` | Defines KPIs and visual specs. |
-| `Dashboard Insights.pdf` | Insight summary per visual. |
-| `Project Explanation in Interview.pdf` | Verbal walk-through. |
-| `Data Dictionary.xlsx` | Column-level metadata. |
-| `Presentation.pptx` | Executive slide deck. |
-
 ---
 
 ## 👤 Author
 **Lavesh Sharma**  
-Data Analyst | Marketing Analytics | Power BI | SQL  
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://github.com/your-profile)
+[LinkedIn](https://linkedin.com/in/lavesh-sharma) 
