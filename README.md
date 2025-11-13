@@ -60,6 +60,8 @@ However, the drop-off between engagement and purchase highlights a **conversion 
 In conclusion, RetailNova’s Meta campaigns achieve **strong audience resonance and brand visibility** but face **low purchase efficiency**.  
 By enhancing post-click user experiences, implementing smarter retargeting strategies, and tailoring creative formats by platform, RetailNova can realize an estimated **20–25 % uplift in ROI** without increasing overall marketing spend.
 
+### 🖼️ Dashboard Overview
+
 <p align="center">
   <img src="https://github.com/dev-laveshSharma/RetailNova-AD-Performance-Analysis/blob/main/screenshot/Facebook%20Insights.png" alt="Facebook Dashboard" width="48%" />
   <img src="https://github.com/dev-laveshSharma/RetailNova-AD-Performance-Analysis/blob/main/screenshot/Instagram%20Insights.png" alt="Instagram Dashboard" width="48%" />
@@ -134,8 +136,6 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 | Platform differences | Maintain distinct Facebook and Instagram playbooks. |
 
 ---
----
-
 ## 👤 Author
 **Lavesh Sharma**  
 [LinkedIn](https://linkedin.com/in/lavesh-sharma) 
