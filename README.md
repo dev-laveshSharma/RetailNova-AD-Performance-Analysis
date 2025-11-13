@@ -24,7 +24,7 @@ The project database includes four core tables and one parameter table used for 
 | **Select Dynamic Measure** | *Disconnected parameter table* used for dynamic metric switching inside Power BI (not joined in the ERD). |
 
 **Entity Relationship Diagram**
-![ERD](images/data_model.png)
+![ERD](https://github.com/dev-laveshSharma/RetailNova-AD-Performance-Analysis/blob/main/screenshot/Data%20Model.png)
 
 ---
 
