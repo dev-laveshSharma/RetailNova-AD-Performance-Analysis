@@ -1,7 +1,7 @@
 # RetailNova-AD-Performance-Analysis
 # RetailNova Meta Ads Performance Optimization (Facebook & Instagram)
 
-## 🏢 Project Background
+## Project Background
 **RetailNova** is a global e-commerce brand specializing in lifestyle and fashion products.  
 In **June 2025**, the marketing team invested **$2.5 million** in paid advertising campaigns across **Facebook** and **Instagram**.  
 
@@ -74,7 +74,7 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 
 ---
 
-### Insights Deep Dive
+## Insights Deep Dive
 
 > *Approach – Each category includes overall and platform-filtered (Facebook / Instagram) visuals to detect both universal and platform-specific trends.*
 
