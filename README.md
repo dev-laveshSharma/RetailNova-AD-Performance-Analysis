@@ -1,5 +1,5 @@
 # RetailNova-AD-Performance-Analysis
-# 🧠 RetailNova Meta Ads Performance Optimization (Facebook & Instagram)
+# RetailNova Meta Ads Performance Optimization (Facebook & Instagram)
 
 ## 🏢 Project Background
 **RetailNova** is a global e-commerce brand specializing in lifestyle and fashion products.  
@@ -12,7 +12,7 @@ As part of the Data Analytics team, I developed a unified reporting solution to:
 
 ---
 
-## 🧮 Data Structure & Model
+## Data Structure & Model
 The project database includes four core tables and one parameter table used for dynamic measures in Power BI.
 
 | Table | Description |
@@ -28,14 +28,14 @@ The project database includes four core tables and one parameter table used for 
 
 ---
 
-## 🧾 Executive Summary 
+## Executive Summary 
 
 The **Meta Ads Performance Analysis** for *RetailNova* provides a comprehensive evaluation of advertising effectiveness across **Facebook** and **Instagram**.
 
 Across both platforms, RetailNova’s campaigns demonstrated **strong awareness and engagement** but revealed **conversion inefficiencies** toward the end of the funnel.  
 The analysis focuses on key funnel KPIs — from impressions and clicks to purchases and conversion rates — to understand how effectively each platform drives users from visibility to action.
 
-### 📊 Platform KPI Comparison
+### Platform KPI Comparison
 
 | **Metric** | **Facebook** | **Instagram** | **Insight / Takeaway** |
 |-------------|--------------|----------------|-------------------------|
@@ -60,7 +60,7 @@ However, the drop-off between engagement and purchase highlights a **conversion 
 In conclusion, RetailNova’s Meta campaigns achieve **strong audience resonance and brand visibility** but face **low purchase efficiency**.  
 By enhancing post-click user experiences, implementing smarter retargeting strategies, and tailoring creative formats by platform, RetailNova can realize an estimated **20–25 % uplift in ROI** without increasing overall marketing spend.
 
-### 🖼️ Dashboard Overview
+### Dashboard Overview
 
 <p align="center">
   <img src="https://github.com/dev-laveshSharma/RetailNova-AD-Performance-Analysis/blob/main/screenshot/Facebook%20Insights.png" alt="Facebook Dashboard" width="48%" />
@@ -74,11 +74,11 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 
 ---
 
-## 🔍 Insights Deep Dive
+### Insights Deep Dive
 
 > *Approach – Each category includes overall and platform-filtered (Facebook / Instagram) visuals to detect both universal and platform-specific trends.*
 
-### 🧍‍♀️ Category 1 – Audience Demographics
+### Category 1 – Audience Demographics
 **Overall Findings**
 - Females ≈ 43 % of engagements vs 22 % males.  
 - Core audience = 18 – 30 yrs.  
@@ -90,14 +90,14 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 
 ---
 
-### 🌍 Category 2 – Geographic Insights
+### Category 2 – Geographic Insights
 - Top markets: **India & US** (high volume), **Germany & UK** (high value).  
 - **Action:** Run high-reach campaigns in India / Brazil; premium conversions in Europe.  
 - Platform trend: both show consistent geography ranking; Instagram engagement slightly denser in urban markets.  
 
 ---
 
-### ⏰ Category 3 – Time Trends
+### Category 3 – Time Trends
 - Weekly engagement stable (no sharp drops).  
 - Hourly peaks 3 PM – 8 PM → ideal ad delivery window.  
 - Calendar heatmap shows spikes around 19–21 & 25–27 June → promotion impact.  
@@ -105,7 +105,7 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 
 ---
 
-### 🎬 Category 4 – Ad Type Performance
+### Category 4 – Ad Type Performance
 | Ad Type | CTR | Conv Rate | Eng Rate | Takeaway |
 |----------|-----|-----------|-----------|-----------|
 | Video | **11.8 %** | **5.6 %** | **13.7 %** | Best overall |
@@ -117,14 +117,14 @@ By enhancing post-click user experiences, implementing smarter retargeting strat
 - **Action:** Shift ≈ 30 % budget to video & story formats.  
 ---
 
-### 🔁 Platform Comparison Summary
+### Platform Comparison Summary
 - Facebook = broader reach, stable CTR.  
 - Instagram = higher story engagement, comparable conversion.  
 - **Recommendation:** Run cross-platform complementary strategy — awareness via Facebook, conversion via Instagram.
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 | Observation | Recommendation |
 |--------------|----------------|
